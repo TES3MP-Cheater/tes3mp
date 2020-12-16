@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Carry Weight (Min -Float)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>5A8</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
