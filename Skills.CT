@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="29">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Block"</Description>
+      <LastState Value="25" RealAddress="23B0401024"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>264</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Armorer"</Description>
+      <LastState Value="57" RealAddress="23B0401034"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>274</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Medium Armor"</Description>
+      <LastState Value="22" RealAddress="23B0401044"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>284</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Heavy Armor"</Description>
+      <LastState Value="44" RealAddress="23B0401054"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>294</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Blunt Weapon"</Description>
+      <LastState Value="80" RealAddress="23B0401064"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>2A4</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"Long Blade"</Description>
+      <LastState Value="35" RealAddress="23B0401074"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>2B4</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"Axe"</Description>
+      <LastState Value="35" RealAddress="23B0401084"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>2C4</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"Spear"</Description>
+      <LastState Value="44" RealAddress="23B0401094"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>2D4</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"Athletics"</Description>
+      <LastState Value="77" RealAddress="23B04010A4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>2E4</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"Enchant"</Description>
+      <LastState Value="40" RealAddress="23B04010B4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>2F4</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"Destruction"</Description>
+      <LastState Value="67" RealAddress="23B04010C4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>304</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"Alteration"</Description>
+      <LastState Value="60" RealAddress="23B04010D4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>314</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"Illusion"</Description>
+      <LastState Value="66" RealAddress="23B04010E4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>27</ID>
+      <Description>"Conjuration"</Description>
+      <LastState Value="99" RealAddress="23B04010F4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>334</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"Mysticism"</Description>
+      <LastState Value="88" RealAddress="23B0401104"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>344</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>31</ID>
+      <Description>"Restoration"</Description>
+      <LastState Value="88" RealAddress="23B0401114"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>354</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>33</ID>
+      <Description>"Alchemy"</Description>
+      <LastState Value="56" RealAddress="23B0401124"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>364</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>35</ID>
+      <Description>"Unarmored"</Description>
+      <LastState Value="70" RealAddress="23B0401134"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>374</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>37</ID>
+      <Description>"Security"</Description>
+      <LastState Value="80" RealAddress="23B0401144"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>384</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>39</ID>
+      <Description>"Sneak"</Description>
+      <LastState Value="120" RealAddress="23B0401154"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>394</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>41</ID>
+      <Description>"Acrobatics"</Description>
+      <LastState Value="71" RealAddress="23B0401164"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>3A4</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>43</ID>
+      <Description>"Light Armor"</Description>
+      <LastState Value="88" RealAddress="23B0401174"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>3B4</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>45</ID>
+      <Description>"Mercantile"</Description>
+      <LastState Value="77" RealAddress="23B04011A4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>3E4</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>47</ID>
+      <Description>"Speechcraft"</Description>
+      <LastState Value="77" RealAddress="23B04011B4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>3F4</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>49</ID>
+      <Description>"Hand to Hand"</Description>
+      <LastState Value="77" RealAddress="23B04011C4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E970</Address>
+      <Offsets>
+        <Offset>404</Offset>
+        <Offset>218</Offset>
+        <Offset>88</Offset>
+        <Offset>120</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
