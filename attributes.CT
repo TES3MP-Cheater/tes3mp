@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Strength"</Description>
+      <LastState Value="250" RealAddress="7EE1AD273C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E190</Address>
+      <Offsets>
+        <Offset>C</Offset>
+        <Offset>218</Offset>
+        <Offset>80</Offset>
+        <Offset>100</Offset>
+        <Offset>48</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Intelligence"</Description>
+      <LastState Value="250" RealAddress="7EE1AD2748"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E190</Address>
+      <Offsets>
+        <Offset>18</Offset>
+        <Offset>218</Offset>
+        <Offset>80</Offset>
+        <Offset>100</Offset>
+        <Offset>48</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Willpower"</Description>
+      <LastState Value="250" RealAddress="7EE1AD2754"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E170</Address>
+      <Offsets>
+        <Offset>24</Offset>
+        <Offset>218</Offset>
+        <Offset>80</Offset>
+        <Offset>80</Offset>
+        <Offset>48</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Agility"</Description>
+      <LastState Value="250" RealAddress="7EE1AD2760"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E190</Address>
+      <Offsets>
+        <Offset>30</Offset>
+        <Offset>218</Offset>
+        <Offset>80</Offset>
+        <Offset>100</Offset>
+        <Offset>48</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Speed"</Description>
+      <LastState Value="250" RealAddress="7EE1AD276C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E190</Address>
+      <Offsets>
+        <Offset>3C</Offset>
+        <Offset>218</Offset>
+        <Offset>80</Offset>
+        <Offset>100</Offset>
+        <Offset>48</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"Endurance"</Description>
+      <LastState Value="250" RealAddress="7EE1AD2778"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E190</Address>
+      <Offsets>
+        <Offset>48</Offset>
+        <Offset>218</Offset>
+        <Offset>80</Offset>
+        <Offset>100</Offset>
+        <Offset>48</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"Personality"</Description>
+      <LastState Value="250" RealAddress="7EE1AD2784"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E190</Address>
+      <Offsets>
+        <Offset>54</Offset>
+        <Offset>218</Offset>
+        <Offset>80</Offset>
+        <Offset>100</Offset>
+        <Offset>48</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"Luck"</Description>
+      <LastState Value="250" RealAddress="7EE1AD2790"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"tes3mp.exe"+00A1E190</Address>
+      <Offsets>
+        <Offset>60</Offset>
+        <Offset>218</Offset>
+        <Offset>80</Offset>
+        <Offset>100</Offset>
+        <Offset>48</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
